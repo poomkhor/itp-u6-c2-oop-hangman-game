@@ -1,0 +1,12 @@
+[
+  "test_guess_word.py::test_guessed_word_interface",
+  "test_guess_word.py::test_guess_word_with_empty_word",
+  "test_guess_word.py::test_guess_word_with_invalid_character",
+  "test_guess_word.py::test_guess_word_with_correct_character",
+  "test_guess_word.py::test_guess_word_with_miss_character",
+  "test_guess_word.py::test_guess_word_with_repeated_elements",
+  "test_guess_word.py::test_guess_word_with_all_equal_characters",
+  "test_guess_word.py::test_guess_word_with_misses_and_guesses",
+  "test_guess_word.py::test_uncover_word_is_case_insensitive_same_case",
+  "test_guess_word.py::test_uncover_word_is_case_insensitive_different_case"
+]
